@@ -1,5 +1,6 @@
 # tmux short keys
 
-ctrl + b + % ----> half the terminal vertically 
-
-ctrl + b + " ----> half the terminal horizontally 
+|**Index**|**Short key** | **function**| 
+| -- | --|  -- | -- |
+|1 | ctrl + b + %| half the terminal vertically  |
+|2 |ctrl + b + "| half the terminal horizontally  | 
