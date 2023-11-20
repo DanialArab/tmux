@@ -4,3 +4,4 @@
 | -- | --|  -- | 
 |1 | ctrl + b + %| half the terminal vertically  |
 |2 |ctrl + b + "| half the terminal horizontally  | 
+|3 |ctrl + b + t| time  | 
