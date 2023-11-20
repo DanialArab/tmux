@@ -7,8 +7,9 @@ Tmux helps me have multiple terminals at the same time, each is called a pane.
 |1 | ctrl + b + %| half the terminal vertically  |
 |2 |ctrl + b + "| half the terminal horizontally  | 
 |3 |ctrl + b + t| time  | 
-|4 |ctrl + b + arrow keys| jumpying around  | 
+|4 |ctrl + b + arrow keys| jumping around  | 
 |5 |ctrl + b + z| zoom in the terminal I am at  | 
 |6 |ctrl + b + z| zoom out the terminal  | 
-|7 |ctrl + b + c| create another pane where I can have multiple terminals| 
+|7 |ctrl + b + c| Create another pane where I can have another set of multiple terminals| 
+|8 |ctrl + b + 0| gets me back to the first pane| 
 
