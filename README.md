@@ -12,4 +12,5 @@ Tmux helps me have multiple terminals at the same time, each is called a pane.
 |6 |ctrl + b + z| zoom out the terminal  | 
 |7 |ctrl + b + c| Create another pane where I can have another set of multiple terminals| 
 |8 |ctrl + b + 0| gets me back to the first pane| 
+|8 |tmux ls | gives me all the tmux sessions I have| 
 
