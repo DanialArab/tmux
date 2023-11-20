@@ -15,4 +15,5 @@ Tmux helps me have multiple terminals at the same time, each is called a pane.
 |9 |tmux ls | gives me all the tmux sessions I have| 
 |10 |ctrl + b + d| to detach from a tmux session (you can exit from tmux without needing to close tmux)| 
 |11 |tmux att -t number_of_session_you_want_to_attach_to| to attach| 
+|12 |while holding (ctrl + b) + arrow keys| adjusting the terminal sizes| 
 
