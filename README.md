@@ -1,5 +1,7 @@
 # tmux short keys
 
+Tmux helps me have multiple terminals at the same time, each is called a pane. 
+
 |**Index**|**Short key** | **function**| 
 | -- | --|  -- | 
 |1 | ctrl + b + %| half the terminal vertically  |
