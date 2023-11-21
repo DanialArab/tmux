@@ -4,8 +4,8 @@ Tmux helps me have multiple terminals at the same time, each is called a pane.
 
 |**Index**|**Short key** | **function**| 
 | -- | --|  -- | 
-|1 | ctrl + b + %| half the terminal vertically  |
-|2 |ctrl + b + "| half the terminal horizontally  | 
+|1 | ctrl + b + %| split the terminal vertically, % is kind of like splitting vertically |
+|2 |ctrl + b + "| split the terminal horizontally  | 
 |3 |ctrl + b + t| time  | 
 |4 |ctrl + b + arrow keys| jumping around  | 
 |5 |ctrl + b + z| zoom in the terminal I am at  | 
